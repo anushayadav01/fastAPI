@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #-------------------------------------------------------------
-#Setup script for MTDA-MQTT
+#Setup script
 #-------------------------------------------------------------
 from setuptools import setup, find_packages
 
