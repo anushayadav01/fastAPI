@@ -5,10 +5,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='mtda_mqtt',
+    name='fastAPI',
     packages=find_packages(),
     version='1.0.0',
-    url='https://github.com/anushayadav01/mtda-mqtt',
+    url='https://github.com/anushayadav01/fastAPI',
     classifiers=[
         "Topic :: Utilities",
         "Environment :: Console",
