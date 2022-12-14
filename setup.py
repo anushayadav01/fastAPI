@@ -21,6 +21,10 @@ setup(
 
     install_requires=[
         "python-daemon>=2.0",
-        "fastapi_websocket_rpc"
+        "fastapi_websocket_rpc",
+        "fastapi",
+        "uvicorn",
+        "pydantic",
+        "tenacity"
     ],
 )
